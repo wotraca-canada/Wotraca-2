@@ -1,1 +1,2 @@
-# Wotraca-2
+# wotraca-app
+WOTRACA Work and Travel Canada
